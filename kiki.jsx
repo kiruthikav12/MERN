@@ -2,7 +2,7 @@ import React from 'react'
 
 const kiki = () => {
   return (
-    <div>kiki</div>
+    <div>kiki1</div>
   )
 }
 
